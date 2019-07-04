@@ -1,3 +1,3 @@
 # remote-ci-test
 
-triggering a 🛁 again... 🙄
+triggering a :sink: again... 🙄
